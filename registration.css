@@ -1,0 +1,30 @@
+header{
+position:fixed; 
+left:0%;top:0px;
+background-color: pink;
+ width :100%;font-size: 25px;
+ text-align: center;
+ height: 1.5cm;
+}
+body{
+align-content: center;
+background-image: url(online-registration-background.png);
+position: absolute;
+top: 20%;
+}
+footer{
+position: fixed;
+left:0%;bottom:0%;
+text-align: center;
+width:100%;background-color:pink;
+height: 1.2cm;
+}
+table{
+    position: fixed;left: 33%;
+}
+.output{
+    position: absolute;
+    top: 1.5cm;
+    left: 10cm;
+    color: black;
+}
