@@ -7,7 +7,7 @@ function execption(){
                 if(password!==""){
                     document.getElementById("msg").innerHTML="login succesful";
                 }else{document.getElementById("msg").innerHTML="enter password";}
-            }else{document.getElementById("msg").innerHTML="invalid user_name";}
+            }else{document.getElementById("msg").innerHTML="invalid user_name it must be in lowercase";}
         }else{document.getElementById("msg").innerHTML="user_name must greater than 5"}
     }else{document.getElementById("msg").innerHTML="user_name empty";}
 
